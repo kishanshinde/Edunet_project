@@ -1,1 +1,1 @@
-# SVCE
+Developed a machine learning model to predict residential property prices in Bangalore, India. Utilize features such as property size, amenities, location, and market trends. Train and evaluate the model using historical data, employing regression algorithms. Deploy the model for users to estimate house prices, facilitating informed decisions for homebuyers and seller.
